@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fdc66ae960243dc57e650f1519629a05c64d52e44053239a74ddf998f2b6f3df"
+            "sha256": "7288313d7c72e4a51c2b9132c4a4615ad395238b1493b7cf6a0949d32b10ce9d"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -27,6 +27,12 @@
         ]
     },
     "default": {
+        "ffmpy": {
+            "hashes": [
+                "sha256:65abdddfa2561bb86b6c9ecfced53c7a15ea5080db4ddad08da7de5a348929f1"
+            ],
+            "version": "==0.2.2"
+        },
         "mutagen": {
             "hashes": [
                 "sha256:9da92566458ffe5618ffd26167abaa8fd81f02a7397b8734ec14dfe14e8a19e4"
