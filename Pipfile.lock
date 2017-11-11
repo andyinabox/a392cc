@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7288313d7c72e4a51c2b9132c4a4615ad395238b1493b7cf6a0949d32b10ce9d"
+            "sha256": "8fda38dd0e37b77781ef98eb5a812f25655c478870f154890fa7ec4f3b36d032"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -27,6 +27,12 @@
         ]
     },
     "default": {
+        "docopt": {
+            "hashes": [
+                "sha256:49b3a825280bd66b3aa83585ef59c4a8c82f2c8a522dbe754a8bc8d08c85c491"
+            ],
+            "version": "==0.6.2"
+        },
         "ffmpy": {
             "hashes": [
                 "sha256:65abdddfa2561bb86b6c9ecfced53c7a15ea5080db4ddad08da7de5a348929f1"
@@ -38,6 +44,20 @@
                 "sha256:9da92566458ffe5618ffd26167abaa8fd81f02a7397b8734ec14dfe14e8a19e4"
             ],
             "version": "==1.39"
+        },
+        "py": {
+            "hashes": [
+                "sha256:2ccb79b01769d99115aa600d7eed99f524bf752bba8f041dc1c184853514655a",
+                "sha256:0f2d585d22050e90c7d293b6451c83db097df77871974d90efd5a30dc12fcde3"
+            ],
+            "version": "==1.4.34"
+        },
+        "pytest": {
+            "hashes": [
+                "sha256:81a25f36a97da3313e1125fce9e7bbbba565bc7fec3c5beb14c262ddab238ac1",
+                "sha256:27fa6617efc2869d3e969a3e75ec060375bfb28831ade8b5cdd68da3a741dc3c"
+            ],
+            "version": "==3.2.3"
         }
     },
     "develop": {}

@@ -1,3 +1,3 @@
-test/*
+.cache
 .env
 .vscode

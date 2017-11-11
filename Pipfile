@@ -13,3 +13,5 @@ name = "pypi"
 
 mutagen = "*"
 ffmpy = "*"
+docopt = "*"
+pytest = "*"
